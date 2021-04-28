@@ -1,13 +1,13 @@
 ### Hi there, I'm Débora! 👋
 
-🤓 iOS Developer intern at Usemobile 
-🇧🇷 Born in Mariana - MG, Brazil 
+🤓 iOS Developer intern at Usemobile  
+🇧🇷 Born in Mariana - MG, Brazil  
 
 
 ### What I'm working on 👩‍💻
 
-🔭 Studying Computer Science at UFOP 
-🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP  
+🔭 Studying Computer Science at UFOP  
+🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP   
 
 
 ### Find me elsewhere 🌎
