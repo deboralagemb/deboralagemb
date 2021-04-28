@@ -14,6 +14,11 @@
 
 💼 [Linkedin](https://www.linkedin.com/in/deboralagemb/)
 
+
+### ⚡ Fun fact:
+
+I am a student, so in this account you will find repositories with computer science study materials and also iOS development studies 😅 have fun!
+
 <!--
 **deboralagemb/deboralagemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
