@@ -19,6 +19,12 @@
 
 I am a student, so in this account you will find repositories with computer science study materials and also iOS development studies 😅 have fun!
 
+
+<a href="https://github.com/deboralagemb">
+<img align="center" alt="deboralagemb's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deboralagemb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github.com/deboralagemb">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=deboralagemb&layout=compact&theme=radical" />
+</a>
 <!--
 **deboralagemb/deboralagemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
