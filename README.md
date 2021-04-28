@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Débora! 👋
+
+🤓 iOS Developer intern at Usemobile
+🇧🇷 Born in Mariana - MG, Brazil
+
+### What I'm working on 👩‍💻
+
+🔭 Studying Computer Science at UFOP
+🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP
+
+### Find me elsewhere 🌎
+
+💼 [Linkedin](https://www.linkedin.com/in/deboralagemb/)
 
 <!--
 **deboralagemb/deboralagemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
