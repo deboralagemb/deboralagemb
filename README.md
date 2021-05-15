@@ -1,6 +1,6 @@
 ### Hi there, I'm Débora! 👋
 
-🤓 iOS Developer intern at Usemobile  
+🤓 iOS Developer 
 🇧🇷 Born in Mariana - MG, Brazil  
 
 
