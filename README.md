@@ -8,6 +8,7 @@
 
 🔭 Studying Computer Science at UFOP  
 🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP   
+🤖 I'm also studying Digital Twins
 
 
 ### Find me elsewhere 🌎
