@@ -3,7 +3,7 @@
 🤓 iOS Developer  
 🇧🇷 Born in Mariana - MG, Brazil  
 [![Twitter: deborednotbored](https://img.shields.io/twitter/follow/deborednotbored?style=social)](https://twitter.com/deborednotbored)
-[![Linkedin: deboralagemb](https://img.shields.io/badge/-deboralagemb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: deboralagemb](https://img.shields.io/badge/-deboralagemb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deboralagemb/)](https://www.linkedin.com/in/deboralagemb/)
 [![GitHub deboralagemb](https://img.shields.io/github/followers/deboralagemb?label=follow&style=social)](https://github.com/deboralagemb)
 
 
