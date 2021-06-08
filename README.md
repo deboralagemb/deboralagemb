@@ -2,6 +2,9 @@
 
 🤓 iOS Developer  
 🇧🇷 Born in Mariana - MG, Brazil  
+[![Twitter: deborednotbored](https://img.shields.io/twitter/follow/deborednotbored?style=social)](https://twitter.com/deborednotbored)
+[![Linkedin: deboralagemb](https://img.shields.io/badge/-deboralagemb-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub deboralagemb](https://img.shields.io/github/followers/deboralagemb?label=follow&style=social)](https://github.com/deboralagemb)
 
 
 ### What I'm working on 👩‍💻
@@ -11,18 +14,11 @@
 🤖 I'm also studying Digital Twins
 
 
-### Find me elsewhere 🌎
-
-💼 [Linkedin](https://www.linkedin.com/in/deboralagemb/)
-
-
 ### ⚡ Fun fact:
 
 I am a student, so in this account you will find repositories with computer science study materials and also iOS development studies 😅 have fun!
 
-
-<a href="https://github.com/deboralagemb">
-<img align="center" alt="deboralagemb's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=deboralagemb&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboralagemb&show_icons=true&theme=tokyonight)
 
 
 <!--
