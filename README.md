@@ -10,8 +10,8 @@
 ### What I'm working on 👩‍💻
 
 🔭 Studying Computer Science at UFOP  
-🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP   
-🤖 I'm also studying Digital Twins
+<!-- 🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP   
+🤖 I'm also studying Digital Twins -->
 
 
 ### ⚡ Fun fact:
