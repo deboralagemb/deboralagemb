@@ -1,10 +1,14 @@
 ### Hi there, I'm Débora! 👋
 
-🤓 iOS Developer  
-🇧🇷 Born in Mariana - MG, Brazil  
+- :iphone: &nbsp; iOS Developer
+- :brazil: &nbsp; Born in Mariana - MG, Brazil  
+- :handshake: &nbsp; 2024 Goals: SwiftUI, WatchOS, MacOS and leadership skills.
+- :heart: &nbsp; Fun fact: I love musicals and analog photography!
 
-<br />
-<br />
+### Skills:
+
+- :technologist: &nbsp; Swift, UIKit, SwiftUI, Objective-C
+- :student: &nbsp; Computer Science, Software Engeneering
 
 ### Framework & Tools:
 
@@ -24,15 +28,7 @@
 <br />
 <br />
 
-### What I'm working on 👩‍💻
-
-🔭 Studying Computer Science at UFOP  
-<!-- 🌱 I’m currently learning TDD, Clean Architecture, Design Patterns, SOLID, MVP   
-🤖 I'm also studying Digital Twins -->
-
-<br />
-<br />
-
+### Stats
 
 ![Debora's GitHub stats](https://github-readme-stats.vercel.app/api?username=deboralagemb&show_icons=true&theme=tokyonight)
 
@@ -44,20 +40,3 @@
 [xcode]: https://developer.apple.com/xcode/
 [git]: https://github.com/rushisangani/rushisangani/blob/master/README.md
 [firebase]: https://firebase.google.com
-
-
-
-<!--
-**deboralagemb/deboralagemb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
