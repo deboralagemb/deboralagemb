@@ -7,8 +7,8 @@
 
 ### Skills:
 
-- :technologist: &nbsp; Swift, UIKit, SwiftUI, Objective-C
-- :student: &nbsp; Computer Science, Software Engeneering
+- :technologist: &nbsp; Swift, UIKit, SwiftUI
+- :student: &nbsp; Computer Science
 
 ### Framework & Tools:
 
