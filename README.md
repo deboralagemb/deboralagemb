@@ -2,7 +2,6 @@
 
 - :iphone: &nbsp; iOS Developer
 - :brazil: &nbsp; Born in Mariana - MG, Brazil  
-- :handshake: &nbsp; 2024 Goals: SwiftUI, WatchOS, MacOS and leadership skills.
 - :heart: &nbsp; Fun fact: I love musicals and analog photography!
 
 ### Skills:
